@@ -1,0 +1,5 @@
+{
+  "name": "Responsive Age Calculator",
+  "description": "A sleek and user-friendly age calculator tool. Users can input their date of birth to instantly see their age calculated in years, months, and days. The application features a modern, dark-themed UI and is fully responsive for all devices.",
+  "requestFramePermissions": []
+}
